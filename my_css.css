@@ -1,0 +1,9 @@
+body {
+  background: url(http://www.sports-logos-screensavers.com/user/Ohio_State_Buckeyes.jpg);
+  background-size: cover;
+  margin: 10px auto;
+}
+
+h1 {font-weight:bold;
+color: #F00000;
+}
